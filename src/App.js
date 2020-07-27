@@ -1,26 +1,53 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import questions from "./questions.json";
+import Quiz from "./components/Quiz";
+import ScoreCard from "./components/ScoreCard";
+import { AppContainer, AppInner } from "./styled";
+import "./App.css";
 
-function App() {
+const App = () => {
+  const [qIndex, setQIndex] = useState(0);
+  const [currentChoice, setCurrentChoice] = useState();
+  const [score, setScore] = useState(0);
+  const [isComplete, setComplete] = useState(false);
+
+  const onClickAnswer = (choice) => {
+    if (!isComplete) setCurrentChoice(choice);
+  };
+
+  const nextQuestion = () => {
+    if (currentChoice === questions[qIndex].answer) {
+      setScore(score + 1);
+    }
+    setCurrentChoice(false);
+    setQIndex(qIndex + 1);
+    if (qIndex + 1 === questions.length) {
+      setComplete(true);
+    }
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppContainer>
+      <AppInner>
+        {qIndex > questions.length - 1 ? (
+          <ScoreCard
+            score={score}
+            setQIndex={setQIndex}
+          />
+        ) : (
+            <Quiz
+              qIndex={qIndex}
+              questions={questions}
+              currentChoice={currentChoice}
+              onClickAnswer={onClickAnswer}
+              nextQuestion={nextQuestion}
+              isReviewMode={isComplete}
+
+            />
+          )}
+      </AppInner>
+    </AppContainer>
   );
-}
+};
 
 export default App;

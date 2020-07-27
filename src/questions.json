@@ -1,0 +1,386 @@
+[
+  {
+    "description": "You should increase the distance between your vehicle and the vehicle ahead when you:",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Are following a small passenger vehicle."
+      },
+      {
+        "key": "B",
+        "description": "Are being tailgated by another driver."
+      },
+      {
+        "key": "C",
+        "description": "Are driving more slowly than the posted speed limit."
+      },
+      {
+        "key": "D",
+        "description": "All of the Above"
+      }
+    ]
+  },
+  {
+    "description": "In which of the following scenarios should your wheels not be pointed straight ahead?",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "When waiting to make a left turn at a traffic light."
+      },
+      {
+        "key": "B",
+        "description": "When parked on a hill or sloping driveway."
+      },
+      {
+        "key": "C",
+        "description": "When parked on the side of a level roadway where there is no curb."
+      }
+    ]
+  },
+  {
+    "description": "If a truck or bus is making a right turn where you also need to make a right turn, you should:",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Wait until the truck or bus turns before you turn."
+      },
+      {
+        "key": "B",
+        "description": "Quickly turn before the truck or bus is able to."
+      },
+      {
+        "key": "C",
+        "description": "Squeeze between the truck or bus and the curb."
+      }
+    ]
+  },
+  {
+    "description": "When being followed by a tailgater, which of the following will help you avoid being hit from behind?",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Merging into another lane"
+      },
+      {
+        "key": "B",
+        "description": "Changing lanes frequently"
+      },
+      {
+        "key": "C",
+        "description": "Decreasing your following distance"
+      },
+      {
+        "key": "D",
+        "description": "A and C"
+      }
+    ]
+  },
+  {
+    "description": "When driving under snowy or icy conditions:",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "It is safe to use your cruise control."
+      },
+      {
+        "key": "B",
+        "description": "Make speed and directional changes more gradually than you would otherwise."
+      },
+      {
+        "key": "C",
+        "description": "Drive as you would under normal conditions."
+      }
+    ]
+  },
+  {
+    "description": "A broken yellow centerline means that:",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Passing is not permitted."
+      },
+      {
+        "key": "B",
+        "description": "Passing on the right is permitted when the way ahead is clear."
+      },
+      {
+        "key": "C",
+        "description": "Passing on the left is permitted when the way ahead is clear."
+      }
+    ]
+  },
+  {
+    "description": "When driving in fog, rain, or snow, use:",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Low beams."
+      },
+      {
+        "key": "B",
+        "description": "High beams."
+      },
+      {
+        "key": "C",
+        "description": "Fog lights only."
+      }
+    ]
+  },
+  {
+    "description": "Which of these statements is true about changing lanes?",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "You only need to turn and look over your right shoulder for lane changes to the right or left."
+      },
+      {
+        "key": "B",
+        "description": "Look over your right shoulder for a right lane change and your left shoulder for a left lane change."
+      },
+      {
+        "key": "C",
+        "description": "Vehicles with two outside mirrors do not have blind spots."
+      }
+    ]
+  },
+  {
+    "description": "It is illegal for a person 21 years of age or older to drive with a blood alcohol concentration (BAC) that is ___ or higher...",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": ".80%"
+      },
+      {
+        "key": "B",
+        "description": ".10%"
+      },
+      {
+        "key": "C",
+        "description": ".05%"
+      }
+    ]
+  },
+  {
+    "description": "You must notify the DMV within 5 days if...",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Sell or transfer your vehicle"
+      },
+      {
+        "key": "B",
+        "description": "Are cited for traffic violation"
+      },
+      {
+        "key": "C",
+        "description": "Paint your vehicle a different color"
+      }
+    ]
+  },
+  {
+    "description": "At dawn or dusk, or in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn...",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Up the instrument panel lights"
+      },
+      {
+        "key": "B",
+        "description": "On your parking lights"
+      },
+      {
+        "key": "C",
+        "description": "On your headlights"
+      }
+    ]
+  },
+  {
+    "description": "When changing lanes on a freeway, you should...",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Signal for at least 5 seconds"
+      },
+      {
+        "key": "B",
+        "description": "Slow down before you start to change lanes"
+      },
+      {
+        "key": "C",
+        "description": "Assume there is enough space for your vehicle, if you signal first"
+      }
+    ]
+  },
+  {
+    "description": "You are driving in a city street and see an emergency vehicle with flashing lights behind you. What do you do?",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Drive to the right edge of the road and slow down"
+      },
+      {
+        "key": "B",
+        "description": "Drive to the right edge of the road and stop"
+      },
+      {
+        "key": "C",
+        "description": "Stay in you lane, slow down, and let it pass"
+      },
+      {
+        "key": "D",
+        "description": "All of the above"
+      }
+    ]
+  },
+  {
+    "description": "Large trucks turning right onto a street with two lanes in each direction...",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "May complete their turn in either the left or right lane"
+      },
+      {
+        "key": "B",
+        "description": "Often have to use part of the left lane to complete the turn"
+      },
+      {
+        "key": "C",
+        "description": "Must stay in the right lane at all times"
+      }
+    ]
+  },
+  {
+    "description": "You are driving on a one-way street. You may turn left onto another one-way street:",
+    "answer": "B",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Only if a sign permits the turn"
+      },
+      {
+        "key": "B",
+        "description": "If traffic on the street is moving to the left"
+      },
+      {
+        "key": "C",
+        "description": "If traffic on the street is moving to the right"
+      }
+    ]
+  },
+  {
+    "description": "You want to pass a bicyclist riding on the edge of your lane, You:",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Must not squeeze past the bicyclist"
+      },
+      {
+        "key": "B",
+        "description": "Must Honk your horn before passing the bicyclist"
+      },
+      {
+        "key": "C",
+        "description": "Must not pass the bicyclist for any reason"
+      }
+    ]
+  },
+  {
+    "description": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+    "answer": "A",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Under any circumstances"
+      },
+      {
+        "key": "B",
+        "description": "Unless you entered the intersection on a yellow light"
+      },
+      {
+        "key": "C",
+        "description": "Unless you entered the intersection on a green light"
+      }
+    ]
+  },
+  {
+    "description": "When making a right turn, look right and left, yield right-of-way, and turn the steering wheel using:",
+    "answer": "D",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Hand off hand technique"
+      },
+      {
+        "key": "B",
+        "description": "A double hand technique"
+      },
+      {
+        "key": "C",
+        "description": "Single hand technique"
+      },
+      {
+        "key": "D",
+        "description": "Hand over hand technique"
+      }
+    ]
+  },
+  {
+    "description": "If you approach an intersection at which the traffic lights are not working, you must first _______ for entering the intersection and yield the right of way.",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "Turn on emergency lights"
+      },
+      {
+        "key": "B",
+        "description": "Reduce your speed"
+      },
+      {
+        "key": "C",
+        "description": "Come to a complete stop"
+      },
+      {
+        "key": "D",
+        "description": "Increase your speed"
+      }
+    ]
+  },
+  {
+    "description": "Must not pass another vehicle if you see:",
+    "answer": "C",
+    "choices": [
+      {
+        "key": "A",
+        "description": "An approaching hill or curve where there is no clear visibility"
+      },
+      {
+        "key": "B",
+        "description": "Schoolbus ahead with red flashing lights and an extended"
+      },
+      {
+        "key": "C",
+        "description": "A solid yellow line in your lane"
+      },
+      {
+        "key": "D",
+        "description": "Any of the above situations"
+      }
+    ]
+  }
+]
