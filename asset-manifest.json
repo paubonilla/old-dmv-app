@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dmv-permit-practice-test/static/css/main.a6fb5ddc.chunk.css",
+    "main.js": "/dmv-permit-practice-test/static/js/main.b6de0be2.chunk.js",
+    "main.js.map": "/dmv-permit-practice-test/static/js/main.b6de0be2.chunk.js.map",
+    "runtime-main.js": "/dmv-permit-practice-test/static/js/runtime-main.89edd88b.js",
+    "runtime-main.js.map": "/dmv-permit-practice-test/static/js/runtime-main.89edd88b.js.map",
+    "static/js/2.1381ed65.chunk.js": "/dmv-permit-practice-test/static/js/2.1381ed65.chunk.js",
+    "static/js/2.1381ed65.chunk.js.map": "/dmv-permit-practice-test/static/js/2.1381ed65.chunk.js.map",
+    "index.html": "/dmv-permit-practice-test/index.html",
+    "precache-manifest.140a8c976ad403cb29c958a2c7a7d94f.js": "/dmv-permit-practice-test/precache-manifest.140a8c976ad403cb29c958a2c7a7d94f.js",
+    "service-worker.js": "/dmv-permit-practice-test/service-worker.js",
+    "static/css/main.a6fb5ddc.chunk.css.map": "/dmv-permit-practice-test/static/css/main.a6fb5ddc.chunk.css.map",
+    "static/js/2.1381ed65.chunk.js.LICENSE.txt": "/dmv-permit-practice-test/static/js/2.1381ed65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89edd88b.js",
+    "static/js/2.1381ed65.chunk.js",
+    "static/css/main.a6fb5ddc.chunk.css",
+    "static/js/main.b6de0be2.chunk.js"
+  ]
+}
