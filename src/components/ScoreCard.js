@@ -5,14 +5,13 @@ const ScoreCard = ({ score, setQIndex }) => {
   const question = `question${score.length > 1 ? "s" : ""}`;
   return (
     <ScoreCardContainer>
-
       <span>
         Congrats, you got {score} {question} right!
       </span>
       <span>
         To take the test again just refresh this page
          <br />
-        Or click Review to see the the questions with correct answers
+        Or click Review to see the questions with correct answers
       </span>
 
       {/* {score.length ? (
@@ -25,7 +24,8 @@ const ScoreCard = ({ score, setQIndex }) => {
             To take the test again just refresh this page
           </span>
         )} */}
-      <button onClick={() => setQIndex(0)}>Review</button>
+
+      <button onClick={() => setQIndex(1)}>Review</button>
     </ScoreCardContainer>
   );
 };

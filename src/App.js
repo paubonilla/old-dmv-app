@@ -29,6 +29,7 @@ const App = () => {
   return (
     <AppContainer>
       <AppInner>
+        <h1>DMV Permit Practice Test, CA</h1>
         {qIndex > questions.length - 1 ? (
           <ScoreCard
             score={score}
@@ -42,7 +43,6 @@ const App = () => {
               onClickAnswer={onClickAnswer}
               nextQuestion={nextQuestion}
               isReviewMode={isComplete}
-
             />
           )}
       </AppInner>

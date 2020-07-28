@@ -11,7 +11,7 @@ const Quiz = ({
     const currQuestion = questions[qIndex];
     return (
         <>
-            <span>Question {qIndex + 1}</span>
+            <span>Question {qIndex + 1} of 20</span>
             <h1>{currQuestion.description}</h1>
             <ul>
                 {currQuestion.choices.map((c) => {
